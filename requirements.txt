@@ -4,6 +4,11 @@ ultralytics>=8.0.0
 torch>=1.8.0
 torchvision>=0.9.0
 opencv-python==4.7.0.72
+libgl1-mesa-glx
+libglib2.0-0
+streamlit
+opencv-python==4.7.0.72
+
 
 # Computer Vision & Image Processing
 opencv-python-headless==4.7.0.72
